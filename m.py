@@ -356,8 +356,8 @@ def show_help(message):
 🤖 To See Admin Commands:
 💥 /admincmd : Shows All Admin Commands.
 
-Buy From :- @mesh213
-Official Channel :- https://t.me/+Pw7z83Ju54ljOGFl
+Buy From :- @BgmiOPbotYT
+Official Channel :- https://t.me/+VmEf2CuM6ogxNjBl
 '''
     for handler in bot.message_handlers:
         if hasattr(handler, 'commands'):
@@ -384,7 +384,7 @@ def welcome_rules(message):
 
 1. Dont Run Too Many Attacks !! Cause A Ban From Bot
 2. Dont Run 2 Attacks At Same Time Becz If U Then U Got Banned From Bot.
-3. MAKE SURE YOU JOINED https://t.me/+Pw7z83Ju54ljOGFl OTHERWISE NOT WORK
+3. MAKE SURE YOU JOINED https://t.me/+VmEf2CuM6ogxNjBl OTHERWISE NOT WORK
 4. We Daily Checks The Logs So Follow these rules to avoid Ban!!'''
     bot.reply_to(message, response)
 
